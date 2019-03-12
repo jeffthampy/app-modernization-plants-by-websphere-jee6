@@ -12,6 +12,6 @@ entries:
       name: David Carew
     name: pbw-liberty-mariadb
     urls:
-    - https://github.com/jeffthampy/app-modernization-plants-by-websphere-jee6/charts/pbw-liberty-mariadb-1.0.0.tgz
+    - https://jeffthampy.github.io/app-modernization-plants-by-websphere-jee6/charts/index.yaml
     version: 1.0.0
 generated: 2019-03-12T19:25:23.032571787Z
